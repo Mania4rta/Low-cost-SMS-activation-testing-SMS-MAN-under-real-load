@@ -1,5 +1,4 @@
-# [sms-activate review: Low-Cost SMS Activation — Testing SMS-MAN Under Real Load](https://sms-man.com/?ref=nima
-)
+# [sms-activate review: Low-Cost SMS Activation — Testing SMS-MAN Under Real Load](https://sms-man.com/?ref=nima)
 
 ---
 
